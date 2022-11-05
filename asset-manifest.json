@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptoChecker/static/css/main.29fa40b1.css",
+    "main.js": "/cryptoChecker/static/js/main.35a17e03.js",
+    "static/media/background.jpg": "/cryptoChecker/static/media/background.8a28b3ba85f639076d34.jpg",
+    "static/media/refresh.png": "/cryptoChecker/static/media/refresh.c0b9234f580c30ba7dfb.png",
+    "index.html": "/cryptoChecker/index.html",
+    "main.29fa40b1.css.map": "/cryptoChecker/static/css/main.29fa40b1.css.map",
+    "main.35a17e03.js.map": "/cryptoChecker/static/js/main.35a17e03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29fa40b1.css",
+    "static/js/main.35a17e03.js"
+  ]
+}
